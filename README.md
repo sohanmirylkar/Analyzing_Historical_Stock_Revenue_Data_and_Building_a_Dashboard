@@ -1,5 +1,7 @@
 # Historical Stock and Revenue Dashboard
 
+**[Try the live interactive demo](https://sohan-live-project-lab.miryalkarsohan.chatgpt.site/#stocks)**
+
 A notebook-based analysis of Tesla and GameStop that combines historical share-price data with company revenue data and presents both series in interactive Plotly dashboards.
 
 ## Project overview
